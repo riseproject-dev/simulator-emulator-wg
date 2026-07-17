@@ -21,3 +21,7 @@ Work is tracked on our [project board](https://github.com/orgs/riseproject-dev/p
 - File an [issue](https://github.com/riseproject-dev/simulator-emulator-wg/issues) to propose work, report a gap, or raise a question
 - Contact us to get involved
 - Have a look at the [project board](https://github.com/orgs/riseproject-dev/projects/19) to see what's in progress
+
+## Resources
+
+* [Google Drive](https://drive.google.com/drive/u/0/folders/1savRnc5pPB0ffYPCWp7yrj8KU5KGGiqy)
